@@ -1,7 +1,5 @@
 # TASK-6-Sales-Trend-Analysis-Using-Aggregations
-Here's the complete `README.md` content in **code format** that you can directly copy and paste into a file:
 
-````markdown
 # 📘 SQL Practice – Monthly Revenue & Order Volume Report
 
 ## 🧾 Project Overview
