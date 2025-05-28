@@ -1,6 +1,5 @@
 # TASK-6-Sales-Trend-Analysis-Using-Aggregations
 
-# 📘 SQL Practice – Monthly Revenue & Order Volume Report
 
 ## 🧾 Project Overview
 This project uses SQL to analyze recent sales data from an e-commerce dataset. The main goal is to compute **monthly total revenue** and **order volume** over the past 12 months using the `online_sales_data` table from the `data_for_practice` database.
